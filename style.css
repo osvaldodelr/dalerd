@@ -40,7 +40,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    padding-top: 5%; /* Reduce padding for smaller screens */
+    padding-top: 50%; /* Reduce padding for smaller screens */
     font-size: 14px; /* Adjust font size for readability */
   }
   .logo {
