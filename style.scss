@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #121f3d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+}
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto; /* Adjust height to fit content */
+    margin-bottom: 20px; /* Add slight spacing below the logo */
+}
+
+.logo {
+    width: 500px;
+    height: auto;
+}
+.coming-soon-container {
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.coming-soon-container h1 {
+    font-size: 3rem;
+    color: #8cbd3f;
+    margin: 0;
+    padding: 0;
+}
+
+.coming-soon-container p {
+    font-size: 1.5rem;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
